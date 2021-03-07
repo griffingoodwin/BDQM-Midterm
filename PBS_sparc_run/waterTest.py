@@ -27,12 +27,12 @@ for x in hvalue:
 	h2Pot = hydrogen.get_potential_energy()
 	o2Pot = oxygen.get_potential_energy()
 	print('Grid Spacing: ', x)
-	print('H2O Potential Energy (eV) : ',  h2oPot)
-	print('H2 Potential Energy (eV) : ',  h2Pot)
-	print('O2 Potential Energy (eV) : ',  o2Pot)
+	print('H2O Potential Energy (eV): ',  h2oPot)
+	print('H2 Potential Energy (eV): ',  h2Pot)
+	print('O2 Potential Energy (eV): ',  o2Pot)
 	total = h2Pot + .5 *  o2Pot -  h2oPot
-	print('Reaction Energy 1 mol H2O (eV) :', total)
-	print('Reaction Energy 2 mol H2O (eV) :', 2* total)
+	print('Reaction Energy 1 mol H2O (eV): ', total)
+	print('Reaction Energy 2 mol H2O (eV): ', 2* total)
 	kJTotal = total * mol / kJ
 	print('Reaction Energy (kJ/mol): ', kJTotal)
 	print('Percent Error: ', 100 * ((kJTotal - 285.8261)/285.8261))
