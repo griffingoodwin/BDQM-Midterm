@@ -7,35 +7,35 @@ Queue:      pace-ice
 End PBS Prologue Sun Mar  7 16:06:21 EST 2021
 ---------------------------------------
 Grid Spacing:  0.2
-H2O Potential Energy (eV) :  -467.63382918722175
-H2 Potential Energy (eV) :  -31.96854862836179
-O2 Potential Energy (eV) :  -865.0033858355511
-Reaction Energy 1 mol H2O (eV) : 3.163587641084405
-Reaction Energy 2 mol H2O (eV) : 6.32717528216881
+H2O Potential Energy (eV):  -467.63382918722175
+H2 Potential Energy (eV):  -31.96854862836179
+O2 Potential Energy (eV):  -865.0033858355511
+Reaction Energy 1 mol H2O (eV): 3.163587641084405
+Reaction Energy 2 mol H2O (eV): 6.32717528216881
 Reaction Energy (kJ/mol):  305.2398066529878
 Percent Error:  6.7921392248600805
 Grid Spacing:  0.16
-H2O Potential Energy (eV) :  -466.82049171629643
-H2 Potential Energy (eV) :  -31.745575997898083
-O2 Potential Energy (eV) :  -864.204261415774
-Reaction Energy 1 mol H2O (eV) : 2.972785010511359
-Reaction Energy 2 mol H2O (eV) : 5.945570021022718
+H2O Potential Energy (eV):  -466.82049171629643
+H2 Potential Energy (eV):  -31.745575997898083
+O2 Potential Energy (eV):  -864.204261415774
+Reaction Energy 1 mol H2O (eV): 2.972785010511359
+Reaction Energy 2 mol H2O (eV): 5.945570021022718
 Reaction Energy (kJ/mol):  286.83015132729105
 Percent Error:  0.35128049093174196
 Grid Spacing:  0.14
-H2O Potential Energy (eV) :  -467.0382691190078
-H2 Potential Energy (eV) :  -31.736892093583457
-O2 Potential Energy (eV) :  -864.5571063970341
-Reaction Energy 1 mol H2O (eV) : 3.022823826907313
-Reaction Energy 2 mol H2O (eV) : 6.045647653814626
+H2O Potential Energy (eV):  -467.0382691190078
+H2 Potential Energy (eV):  -31.736892093583457
+O2 Potential Energy (eV):  -864.5571063970341
+Reaction Energy 1 mol H2O (eV): 3.022823826907313
+Reaction Energy 2 mol H2O (eV): 6.045647653814626
 Reaction Energy (kJ/mol):  291.6581631843009
 Percent Error:  2.040423594731524
 Grid Spacing:  0.12
-H2O Potential Energy (eV) :  -466.915697825263
-H2 Potential Energy (eV) :  -31.732687610627195
-O2 Potential Energy (eV) :  -864.5140810595989
-Reaction Energy 1 mol H2O (eV) : 2.9259696848363888
-Reaction Energy 2 mol H2O (eV) : 5.8519393696727775
+H2O Potential Energy (eV):  -466.915697825263
+H2 Potential Energy (eV):  -31.732687610627195
+O2 Potential Energy (eV):  -864.5140810595989
+Reaction Energy 1 mol H2O (eV): 2.9259696848363888
+Reaction Energy 2 mol H2O (eV): 5.8519393696727775
 Reaction Energy (kJ/mol):  282.31315904553895
 Percent Error:  -1.2290483459911616
 ---------------------------------------
