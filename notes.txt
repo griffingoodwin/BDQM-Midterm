@@ -1,4 +1,3 @@
-# BDQM-Midterm
 This repository contains the results for my training group midterm deliverables. 
 
 Important Files:
