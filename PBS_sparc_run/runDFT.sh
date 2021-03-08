@@ -7,4 +7,4 @@
 #PBS -e stderr
 cd $PBS_O_WORKDIR
 source /storage/home/hpaceice1/ggoodwin6/PBS_sparc_run/sparc_env1.sh
-python waterTest.py
+python DFT.py
