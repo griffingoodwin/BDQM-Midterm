@@ -2,7 +2,7 @@ This repository contains the results for my training group midterm deliverables.
 
 Important Files:
 
-runDFT.sh: Batch file to run DFT.py
+runDFT.sh: Bash file to run DFT.py
 
 DFT.py: Python file used to execute the calculation.
 
